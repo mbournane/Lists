@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S04\Quests\Lists\bin\Debug\net7.0\Lists.exe
+C:\WildSchoul_Formation\S04\Quests\Lists\bin\Debug\net7.0\Lists.deps.json
+C:\WildSchoul_Formation\S04\Quests\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+C:\WildSchoul_Formation\S04\Quests\Lists\bin\Debug\net7.0\Lists.dll
+C:\WildSchoul_Formation\S04\Quests\Lists\bin\Debug\net7.0\Lists.pdb
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.dll
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\refint\Lists.dll
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.pdb
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+C:\WildSchoul_Formation\S04\Quests\Lists\obj\Debug\net7.0\ref\Lists.dll
